@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleContacts", "ConsoleContacts\ConsoleContacts.csproj", "{10A5D004-EA3A-4D68-B8E6-55D5A05CA380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryCSVsamples", "QueryCSVsamples\QueryCSVsamples.csproj", "{E9A5EAF0-4755-49D3-B8B6-9003737EB76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateOpertaions", "UpdateOpertaions\UpdateOpertaions.csproj", "{5F8CED0E-5C18-4793-9475-FEAF024FCE06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A5D004-EA3A-4D68-B8E6-55D5A05CA380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A5D004-EA3A-4D68-B8E6-55D5A05CA380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A5D004-EA3A-4D68-B8E6-55D5A05CA380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A5D004-EA3A-4D68-B8E6-55D5A05CA380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A5EAF0-4755-49D3-B8B6-9003737EB76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A5EAF0-4755-49D3-B8B6-9003737EB76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A5EAF0-4755-49D3-B8B6-9003737EB76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A5EAF0-4755-49D3-B8B6-9003737EB76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8CED0E-5C18-4793-9475-FEAF024FCE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8CED0E-5C18-4793-9475-FEAF024FCE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8CED0E-5C18-4793-9475-FEAF024FCE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8CED0E-5C18-4793-9475-FEAF024FCE06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

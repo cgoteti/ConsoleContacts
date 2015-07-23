@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bc71dfa2-1e7d-4dfa-94bd-a1792d641f5c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?wsdl=generic" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="soap.xsd" MetadataType="Schema" ID="4c3ad055-c58b-4096-850d-a1087278ae83" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?xsd=nullfields" />
+    <MetadataFile FileName="soap1.xsd" MetadataType="Schema" ID="f1f61646-c0f4-4d67-9d6b-ce9e5c343d22" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?xsd=messagesgeneric" />
+    <MetadataFile FileName="RightNow.wsdl" MetadataType="Wsdl" ID="522a76ba-17c6-4df9-9c33-70fed8d55c3c" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?wsdl=generic" />
+    <MetadataFile FileName="soap2.xsd" MetadataType="Schema" ID="08c7795b-24ab-476f-aa25-2579ae4a41e5" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?xsd=metadata" />
+    <MetadataFile FileName="soap3.xsd" MetadataType="Schema" ID="e69e830b-516f-46a2-9ef6-113e33cb93f6" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?xsd=faults" />
+    <MetadataFile FileName="soap4.xsd" MetadataType="Schema" ID="83b24aa7-c740-4799-87c6-2f3107586e81" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?xsd=generic" />
+    <MetadataFile FileName="soap5.xsd" MetadataType="Schema" ID="5db9f7a9-2509-4775-a23b-e8f29c91240b" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?xsd=objects" />
+    <MetadataFile FileName="soap6.xsd" MetadataType="Schema" ID="01fb50df-f24a-48a6-acd4-79cb791a8ec1" SourceId="1" SourceUrl="https://ets2.custhelp.com/cgi-bin/ets2.cfg/services/soap?xsd=base" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

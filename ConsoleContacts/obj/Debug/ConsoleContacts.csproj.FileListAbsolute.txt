@@ -1,0 +1,6 @@
+c:\users\chandrasekhar\documents\visual studio 14\Projects\ConsoleContacts\ConsoleContacts\bin\Debug\ConsoleContacts.exe.config
+c:\users\chandrasekhar\documents\visual studio 14\Projects\ConsoleContacts\ConsoleContacts\obj\Debug\ConsoleContacts.csprojResolveAssemblyReference.cache
+c:\users\chandrasekhar\documents\visual studio 14\Projects\ConsoleContacts\ConsoleContacts\bin\Debug\ConsoleContacts.exe
+c:\users\chandrasekhar\documents\visual studio 14\Projects\ConsoleContacts\ConsoleContacts\bin\Debug\ConsoleContacts.pdb
+c:\users\chandrasekhar\documents\visual studio 14\Projects\ConsoleContacts\ConsoleContacts\obj\Debug\ConsoleContacts.exe
+c:\users\chandrasekhar\documents\visual studio 14\Projects\ConsoleContacts\ConsoleContacts\obj\Debug\ConsoleContacts.pdb

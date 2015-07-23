@@ -1,0 +1,6 @@
+C:\Users\chandrasekhar\Documents\Visual Studio 14\Projects\ConsoleContacts\QueryCSVsamples\bin\Debug\QueryCSVsamples.exe.config
+C:\Users\chandrasekhar\Documents\Visual Studio 14\Projects\ConsoleContacts\QueryCSVsamples\bin\Debug\QueryCSVsamples.exe
+C:\Users\chandrasekhar\Documents\Visual Studio 14\Projects\ConsoleContacts\QueryCSVsamples\bin\Debug\QueryCSVsamples.pdb
+C:\Users\chandrasekhar\Documents\Visual Studio 14\Projects\ConsoleContacts\QueryCSVsamples\obj\Debug\QueryCSVsamples.csprojResolveAssemblyReference.cache
+C:\Users\chandrasekhar\Documents\Visual Studio 14\Projects\ConsoleContacts\QueryCSVsamples\obj\Debug\QueryCSVsamples.exe
+C:\Users\chandrasekhar\Documents\Visual Studio 14\Projects\ConsoleContacts\QueryCSVsamples\obj\Debug\QueryCSVsamples.pdb
